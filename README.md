@@ -1,3 +1,0 @@
-# pettingzoo_pistonball
-pettingzoo中pistonball环境
-代码：master分支
